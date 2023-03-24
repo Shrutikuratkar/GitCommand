@@ -1,0 +1,2 @@
+Hi i am shruti
+this is my first time to use git version control tool
